@@ -1,6 +1,6 @@
 # Theme Material
  
-**Description:** A neat WordPress theme that fits your posts, responsive and lightweight.You can customize various features including header image, featured image for posts, widget for social links, translation resource and so on.
+**Description:** A neat WordPress theme that fits your posts, responsive and lightweight. You can customize various features including header image, featured image for posts, widget for social links, translation resource and so on.
 
 **Author:** Klyment Wong
 
