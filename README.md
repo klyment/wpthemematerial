@@ -1,4 +1,4 @@
-＃ Material
+# Material
  
 **Description:** A neat WordPress theme that fits your posts, responsive and lightweight.You can customize various features including header image, featured image for posts, widget for social links, translation resource and so on.
 
@@ -13,7 +13,7 @@
 **Required WordPress version:** 3.4+
 
 
-＃ Credits
+# Credits
  
 **Boostrap Framework 3.3.1:** http://getbootstrap.com
   
@@ -22,7 +22,7 @@
 **Font Awesome:** http://fortawesome.github.io/Font-Awesome
 
   
-＃ Default Header Banner
+# Default Header Banner
 
 **Photography:** Klyment Wong (Oct. 2014, Chengdu CN)
 
