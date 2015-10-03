@@ -12,7 +12,7 @@ jQuery(document).ready(function (a) {
     /*override default calendar widget*/
     a('table[id^="wp-calendar"]').addClass("table");
     
-    a("div.site-menu").removeClass('site-menu').children('ul').first().addClass('site-menu')
+    a("div.site-menu").removeClass('site-menu').children('ul').first().addClass('site-menu');
     
     /*navbar menu*/
     768 >= a(window).width() && (
